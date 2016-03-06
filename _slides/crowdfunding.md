@@ -11,6 +11,9 @@ pager: "false"
 controls: "false"
 ---
 
-- A crowdfunding campaign is about to start.
-  Help us make the best tool for you. [Go to the crowd funding website](http://crowdfunding.silex.me/).
-- <iframe style="width:100%; height:100%; border-style: none" src="https://fr.surveymonkey.com/r/DP823KR"></iframe>
+- # CROWD FUNDING CAMPAIGN STARTING SOON
+  We have the ambition to give Silex international concern by creating a multilingual documentation and tutorials. Moreover, your participation will allow us to free more templates to facilitate the starting of your website.
+  * [Go to the crowd funding website and leave your email address](http://crowdfunding.silex.me/).
+  * [Read more about the crowdfunding here](http://crowdfunding.silex.me/).
+  # Help us make the best tool for you. 
+  Before we continue to work on Silex [tell us what is important to you by taking this survey](https://fr.surveymonkey.com/r/26KJS5B). And [see what others have answered here](https://fr.surveymonkey.com/results/SM-DTCQWR6Q/).
