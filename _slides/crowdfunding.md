@@ -16,8 +16,8 @@ controls: "false"
   We have the ambition to give Silex international concern by creating a multilingual documentation and tutorials. Moreover, your participation will allow us to free more templates to facilitate the starting of your website.
 
 
-  * [Go to the crowd funding website and leave your email address](http://crowdfunding.silex.me/).
-  * [Read more about the crowdfunding here](http://crowdfunding.silex.me/).
+  * [Go to the crowd funding website and leave your email address](http://crowdfunding.silex.me/)
+  * [Read more about the crowdfunding here](http://crowdfunding.silex.me/)
 
   # HELP US MAKE THE BEST TOOL FOR YOU
   
