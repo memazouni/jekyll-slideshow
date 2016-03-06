@@ -17,5 +17,6 @@ controls: "false"
   * [Go to the crowd funding website and leave your email address](http://crowdfunding.silex.me/).
   * [Read more about the crowdfunding here](http://crowdfunding.silex.me/).
 
-  # Help us make the best tool for you. 
+  # HELP US MAKE THE BEST TOOL FOR YOU
+  
   Before we continue to work on Silex [tell us what is important to you by taking this survey](https://fr.surveymonkey.com/r/26KJS5B). And [see what others have answered here](https://fr.surveymonkey.com/results/SM-DTCQWR6Q/).
