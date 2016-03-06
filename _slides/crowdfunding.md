@@ -1,8 +1,8 @@
 ---
 layout: iframe
-mode: slide
-auto: true
-loop: true
+mode: fade
+auto: "false"
+loop: "false"
 speed: 1000
 pause: 4000
 published: true
