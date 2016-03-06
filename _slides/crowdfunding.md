@@ -6,6 +6,7 @@ loop: true
 speed: 1000
 pause: 4000
 published: true
+adaptiveHeight: true
 pager: "false"
 controls: "false"
 ---
