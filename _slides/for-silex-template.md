@@ -18,7 +18,7 @@ style:
     to: 
       left: "-100%"
 anim: 
-  duration: 10000
+  duration: 15000
   left: "-100%"
 published: true
 pager: "false"
