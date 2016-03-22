@@ -6,6 +6,6 @@ auto: true
 loop: true
 ---
 
-* ![Silex Logo](www.silex.me/silex-logo.png)
-* ![Silex UI](www.silex.me/silex-ui.gif)
+* ![Silex Logo](www_silex_me/silex-logo.png)
+* ![Silex UI](www_silex_me/silex-ui.gif)
 
