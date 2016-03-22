@@ -5,6 +5,7 @@ item: 1
 auto: true
 loop: true
 pager: "false"
+pause: 6000
 controls: "false"
 style:
   body:
