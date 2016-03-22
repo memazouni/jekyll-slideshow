@@ -4,6 +4,8 @@ title: Silex Home page
 item: 1
 auto: true
 loop: true
+pager: "false"
+controls: "false"
 ---
 
 * ![Silex Logo](www_silex_me/silex-logo.png)
