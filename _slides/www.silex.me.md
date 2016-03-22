@@ -10,7 +10,7 @@ style:
   body:
     init:
       overflow: hidden
-  .lSNext
+  .lSNext:
     init:
       display: none
 ---
