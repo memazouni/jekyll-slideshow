@@ -12,6 +12,6 @@ style:
       overflow: hidden
 ---
 
-* ![Silex Logo](www_silex_me/silex-logo.png)
+* ![Silex Logo](www_silex_me/Silex_website_builder_logo-small.png)
 * ![Silex UI](www_silex_me/silex-screenshot.png)
 
