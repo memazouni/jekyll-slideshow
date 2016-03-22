@@ -10,6 +10,9 @@ style:
   body:
     init:
       overflow: hidden
+  .lSNext
+    init:
+      display: none
 ---
 
 * ![Silex Logo](www_silex_me/Silex_website_builder_logo-small.png)
